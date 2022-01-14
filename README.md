@@ -1,4 +1,8 @@
-### Hi there 👋
+![GFXR9447 (2)](https://user-images.githubusercontent.com/92880309/149529450-dbb9f57d-de6c-4558-8f20-228d228eebe6.jpg)
+
+---
+
+
 
 <!--
 **shermscissors/shermscissors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
