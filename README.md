@@ -3,7 +3,7 @@
 
 ## Hello! I am shermscissors. (David sometimes)
 
-(Almost) Graduate of General Assembly. Software Engineer, human, creator, etc.
+Graduate of General Assembly. Software Engineer, human, creator, etc.
 
 Probably working on code, feel free to ask.
 
